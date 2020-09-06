@@ -35,7 +35,7 @@ def logo():
     {07} - Instagram Emails Valid CHECKER (WITH PROXIES)
     {08} - Smtp2Go Accounts CHECKER (WITH PROXIES)
     {09} - HMA Accounts CHECKER (NO PROXIES NEEDED)
-    {10} - Vypr VPN Accounts CHECKER (NO PROXIES NEEDED)
+    {10} - Vypr VPN Accounts CHECKER (PROXIES NEEDED)
  ''')
 def Folder(directory):
  if not os.path.exists(directory):
